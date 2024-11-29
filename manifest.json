@@ -1,0 +1,16 @@
+{
+  "name": "FixTwitterLinks",
+  "description": "Automatically replaces x.com links with fxtwitter.com links for proper Discord embeds.",
+  "authors": [
+    {
+      "name": "breadix",
+      "id": "163310336168951818"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_link",
+    "original": "https://raw.githubusercontent.com/Deniz1433/FixTwitterLinks/main/"
+  },
+  "hash": "C3B87ED29B22CB827C2867A74EE3E1DB15FDC7004EE37772047659C5275D3D0B"
+}
